@@ -1,0 +1,13 @@
+
+{
+    "name":"RealmNFT Latest",
+    "description":"Realm NFT's - Best in the crypto world",
+    "image":"https://storage.googleapis.com/opensea-prod.appspot.com/creature/12.png",
+    "attributes":[
+        {
+            "trait_type":"Strength",
+            "value":48,
+            "max":100
+        }
+    ]
+}

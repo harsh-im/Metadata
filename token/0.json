@@ -1,0 +1,12 @@
+{
+    "name":"RealmNFT",
+    "description":"Realm NFT's",
+    "image":"https://storage.googleapis.com/opensea-prod.appspot.com/creature/50.png",
+    "attributes":[
+        {
+            "trait_type":"Strength",
+            "value":50,
+            "max":100
+        }
+    ]
+}
